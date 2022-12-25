@@ -1,0 +1,72 @@
+
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+      {
+        "source": {
+          "id": "fox-sports",
+          "name": "Fox Sports"
+        },
+        "author": "RJ Young",
+        "title": "College football bowl games 2022: Schedule, picks, results for all 43 games",
+        "description": "There are 43 bowl games in the 2022 season. We've got the complete schedule here, with analysis and picks from RJ Young.",
+        "url": "http://www.foxsports.com/stories/college-football/college-football-bowl-games-2022-schedule-for-all-43-games",
+        "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/11/1408/814/11.30.22_CFPBowlProjections_Horizontal.jpg?ve=1&tl=1",
+        "publishedAt": "2022-12-24T01:30:09Z",
+        "content": "The No. 4-ranked Ohio State Buckeyes will play the No. 3-ranked Michigan Wolverines in the national title game. Or at least that's what I think is going to happen.\r\nA healthy Ohio State matches up we… [+13901 chars]"
+      },
+      {
+        "source": {
+          "id": "bleacher-report",
+          "name": "Bleacher Report"
+        },
+        "author": "David Kenyon",
+        "title": "Early National Signing Day 2022: Winners and Losers for Every Power Conference",
+        "description": "After three days of near-nonstop mayhem, the early signing period for the 2023 college football recruiting cycle has reached the finish line. And there's a...",
+        "url": "https://bleacherreport.com/articles/10059358-early-national-signing-day-2022-winners-and-losers-for-every-power-conference",
+        "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1671809813/vyh5zqfzcpinpdj0xuy2.jpg",
+        "publishedAt": "2022-12-23T18:35:58Z",
+        "content": "Ryan DayFrank Jansky/Icon Sportswire via Getty Images\r\nWinner: Maryland Terrapins\r\nIt was a quiet stretch around the Big Ten. Most programs had their classes in place and avoided late departures.\r\nMa… [+1084 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-sports",
+          "name": "Fox Sports"
+        },
+        "author": "Martin Rogers",
+        "title": "Which NFL teams could receive some Christmas cheer?",
+        "description": "As long as you have five wins or more to this point – and all but six NFL squads meet that criteria – playoff football remains a legitimate possibility. So who could receive that gift of joy?",
+        "url": "http://www.foxsports.com/stories/nfl/which-nfl-teams-could-receive-some-christmas-cheer",
+        "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/12/1408/814/12.22.22_NFLChristmasNewsletter_Horizontal.jpg?ve=1&tl=1",
+        "publishedAt": "2022-12-23T15:39:11Z",
+        "content": "It is gift-giving season, the time of year when you either get something you asked for, something you didn't, or maybe, if you haven't been good, nothing at all.   \r\nSo it goes in the National Footba… [+4894 chars]"
+      },
+      {
+        "source": {
+          "id": "bleacher-report",
+          "name": "Bleacher Report"
+        },
+        "author": "Morgan Moriarty",
+        "title": "Winners and Losers of 2022 Bowl Season, Part 1",
+        "description": "College football's bowl season kicked off on Dec. 16, and since then there has been a lot of fun football. Bowl games are meant to celebrate seasons that teams...",
+        "url": "https://bleacherreport.com/articles/10059475-winners-and-losers-of-2022-bowl-season-part-1",
+        "urlToImage": "https://media.bleacherreport.com/image/upload/x_20,y_8,w_1775,h_1179,c_crop/c_fill,g_faces,w_3800,h_2000,q_95/v1671728373/gckfxtb0oxjvmjjivppe.jpg",
+        "publishedAt": "2022-12-23T12:00:00Z",
+        "content": "Brian Fluharty/Getty Images\r\nThe Fenway Bowl was a bit of an ironic matchup thanks to recent moves both schools made in the coaching carousel.\r\nIn late November, Wisconsin hired Cincinnati's Luke Fic… [+1275 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+        "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+        "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+        "publishedAt": "2020-04-27T07:20:43Z",
+        "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+      }
+    ]
+  }
